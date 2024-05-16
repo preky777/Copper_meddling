@@ -118,3 +118,8 @@ The required Python libraries for this project are listed in the requirements.tx
             pickle.dump(scaler, f)
         with open('ct.pkl', 'wb') as f:
             pickle.dump(ohe, f)
+
+
+## App Screenshots
+
+
