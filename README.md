@@ -122,4 +122,19 @@ The required Python libraries for this project are listed in the requirements.tx
 
 ## App Screenshots
 
+1.
 
+<img width="1252" alt="Screenshot 2024-05-17 034632" src="https://github.com/preky777/Copper_meddling/assets/107749942/d8f3f9b9-6ac9-480e-8c93-48499090b40e">
+
+2.
+
+<img width="1250" alt="Screenshot 2024-05-17 034647" src="https://github.com/preky777/Copper_meddling/assets/107749942/ddb6e7fd-a1a9-4c2c-b6d4-1be8716336b9">
+
+3.
+
+<img width="1246" alt="Screenshot 2024-05-17 034734" src="https://github.com/preky777/Copper_meddling/assets/107749942/360d0ab8-e1fe-466e-9ea9-1251854c4e74">
+
+
+4.
+
+<img width="1249" alt="Screenshot 2024-05-17 034750" src="https://github.com/preky777/Copper_meddling/assets/107749942/5d14543a-036f-4f77-ae20-c48d7e696018">
